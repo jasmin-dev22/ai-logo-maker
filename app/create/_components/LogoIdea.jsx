@@ -1,3 +1,5 @@
+"use client"
+
 import React, { useEffect, useState } from 'react'
 import HeadingDescription from './HeadingDescription'
 import Lookup from '@/app/_data/Lookup'
