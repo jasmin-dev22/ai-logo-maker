@@ -1,3 +1,5 @@
+export const runtime = 'nodejs'
+
 import { AILogoPrompt } from "@/configs/AiModel";
 import { db } from "@/configs/FirebaseConfig";
 import axios from "axios";
