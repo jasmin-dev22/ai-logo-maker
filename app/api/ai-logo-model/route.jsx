@@ -1,4 +1,5 @@
 export const runtime = 'nodejs'
+export const dynamic = 'force-dynamic';
 
 import { AILogoPrompt } from "@/configs/AiModel";
 import { db } from "@/configs/FirebaseConfig";
