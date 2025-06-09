@@ -1,6 +1,6 @@
 # 🎨 AI Logo Maker – Generate Custom Logos with AI
 
-**AI Logo Maker** is a full-stack web app where users can generate and download unique logos using AI. Built with **Next.js**, **Tailwind**, and **TypeScript**, it offers instant results and a smooth user interface.
+**AI Logo Maker** is a full-stack web app where users can generate and download unique logos using AI. Built with **Next.js**, **Tailwind**, and **JavaScript**, it offers instant results and a smooth user interface.
 
 ### 🚀 Live Demo
 [🔗 Visit AI Logo Maker](https://ai-logo-maker-18.vercel.app/)
