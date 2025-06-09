@@ -33,7 +33,7 @@
 
 ### 📁 Folder Overview
 - `/components`: Custom UI pieces
-- `/utils`: API and prompt logic
+- `/configs`: API and prompt logic
 - `/styles`: Tailwind-based styling
 
 ---
