@@ -1,36 +1,46 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🎨 AI Logo Maker – Generate Custom Logos with AI
 
-## Getting Started
+**AI Logo Maker** is a full-stack web app where users can generate and download unique logos using AI. Built with **Next.js**, **Tailwind**, and **TypeScript**, it offers instant results and a smooth user interface.
 
-First, run the development server:
+### 🚀 Live Demo
+[🔗 Visit AI Logo Maker](https://ai-logo-maker-18.vercel.app/)
 
+---
+
+### 🛠️ Tech Stack
+- Next.js
+- JavaScript
+- Tailwind CSS
+- OpenAI / Hugging Face API (for AI logo generation)
+
+---
+
+### ✨ Features
+- AI-based logo generation from user prompts
+- One-click download of generated logos
+- Real-time rendering and preview
+- Responsive and fast user interface
+- Error handling and input validation
+
+---
+
+### 💡 Highlights
+- Connected to external AI APIs for creative output
+- Frontend + backend handling for logo assets
+- State management and custom download logic
+
+---
+
+### 📁 Folder Overview
+- `/components`: Custom UI pieces
+- `/utils`: API and prompt logic
+- `/styles`: Tailwind-based styling
+
+---
+
+### 💻 Run Locally
 ```bash
+git clone https://github.com/your-username/ai-logo-maker.git
+cd ai-logo-maker
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
